@@ -1,0 +1,9 @@
+{
+    "require": {
+        "cmfcmf/openweathermap-php-api": "^2.3",
+        "kavenegar/php": "*",
+        "morilog/jalali": "^2.3",
+        "sallar/jdatetime": "dev-master",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}

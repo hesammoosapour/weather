@@ -1,0 +1,46 @@
+[
+    {
+        "name": "kavenegar/php",
+        "version": "v1.1.5",
+        "version_normalized": "1.1.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/KaveNegar/kavenegar-php.git",
+            "reference": "a02bf9792a91c329ecd989285f47a85f994daec8"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/KaveNegar/kavenegar-php/zipball/a02bf9792a91c329ecd989285f47a85f994daec8",
+            "reference": "a02bf9792a91c329ecd989285f47a85f994daec8",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2017-06-21T07:07:09+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Kavenegar\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Kavenegar API Team",
+                "email": "support@kavenegar.com"
+            }
+        ],
+        "description": "A PHP wrapper for Kavenegar's API",
+        "homepage": "http://github.com/Kavenegar/kavenegar-php",
+        "keywords": [
+            "api",
+            "kavenegar",
+            "sms"
+        ]
+    }
+]
